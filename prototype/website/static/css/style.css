@@ -1,0 +1,53 @@
+.login-input {
+  width: 130px;
+}
+
+.form-button {
+  width: 80px;
+  height: 35px;
+}
+
+.signup-box {
+  margin: auto;
+  width: 325px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 10px;
+}
+
+.settings-box {
+  margin: auto;
+  width: 325px;
+}
+
+.signup-area {
+  padding: 30px;
+}
+
+.settings-area {
+  padding: 30px;
+}
+.circle-text {
+display: table-cell;
+height: 50px;
+width: 50px;
+text-align: center;
+vertical-align: middle;
+border-radius: 50%;
+background: #fafafa;
+color: #0a0a0a;
+font: 20px "josefin sans", arial;
+transform: translateY(-50%);
+position: absolute;
+top: 15%;
+left: 20px;
+padding: 0.8rem;
+padding-top: 0.8rem;
+padding-right: 0.8rem;
+padding-bottom: 0.8rem;
+padding-left: 0.55rem;
+}
+
+b {
+	color: blue;
+}
